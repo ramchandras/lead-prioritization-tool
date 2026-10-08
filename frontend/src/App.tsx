@@ -42,16 +42,16 @@ function App() {
   }, []);
 
   const fetchLeads = async () => {
-    try {
-      const response = await axios.get(
-        "http://localhost:5000/api/leads"
-      );
+  try {
+    const response = await axios.get(
+      "https://lead-prioritization-tool.onrender.com/api/leads"
+    );
 
-      setLeads(response.data.leads);
-    } catch (error) {
-      console.error("Error fetching leads:", error);
-    }
-  };
+    setLeads(response.data.leads);
+  } catch (error) {
+    console.error("Error fetching leads:", error);
+  }
+};
 
   // -----------------------------
   // Filter leads
