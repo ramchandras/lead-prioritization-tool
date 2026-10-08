@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "companyName": "CloudTech Solutions",
+    "website": "https://cloudtech.example.com",
+    "industry": "SaaS",
+    "location": "California",
+    "employeeCount": 150,
+    "email": "contact@cloudtech.example.com"
+  },
+  {
+    "id": 2,
+    "companyName": "DigitalWorks",
+    "website": "https://digitalworks.example.com",
+    "industry": "Software",
+    "location": "California",
+    "employeeCount": 80,
+    "email": "hello@digitalworks.example.com"
+  },
+  {
+    "id": 3,
+    "companyName": "SmallBiz Tech",
+    "website": "https://smallbiz.example.com",
+    "industry": "Technology",
+    "location": "Texas",
+    "employeeCount": 20,
+    "email": ""
+  },
+  {
+    "id": 4,
+    "companyName": "FinServe AI",
+    "website": "https://finserve.example.com",
+    "industry": "SaaS",
+    "location": "California",
+    "employeeCount": 250,
+    "email": "sales@finserve.example.com"
+  },
+  {
+    "id": 5,
+    "companyName": "HealthSoft",
+    "website": "https://healthsoft.example.com",
+    "industry": "Software",
+    "location": "New York",
+    "employeeCount": 120,
+    "email": "contact@healthsoft.example.com"
+  },
+  {
+    "id": 6,
+    "companyName": "Retail Systems",
+    "website": "https://retailsystems.example.com",
+    "industry": "Retail",
+    "location": "Texas",
+    "employeeCount": 60,
+    "email": "info@retailsystems.example.com"
+  },
+  {
+    "id": 7,
+    "companyName": "NextGen Cloud",
+    "website": "https://nextgen.example.com",
+    "industry": "SaaS",
+    "location": "California",
+    "employeeCount": 500,
+    "email": "sales@nextgen.example.com"
+  },
+  {
+    "id": 8,
+    "companyName": "DataWorks",
+    "website": "https://dataworks.example.com",
+    "industry": "Technology",
+    "location": "California",
+    "employeeCount": 90,
+    "email": ""
+  }
+]
